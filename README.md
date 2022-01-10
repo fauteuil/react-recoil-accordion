@@ -1,2 +1,2 @@
-# react-recoil-accordion
+# recoil-typescript-accordion
 Created with CodeSandbox
